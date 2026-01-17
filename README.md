@@ -34,8 +34,9 @@ A real-time network security monitoring dashboard built with Python, Streamlit, 
 
 🛠️ Prerequisites (Linux)
 
-: To run this program, ensure you have the required libraries: pip install streamlit pyshark plotly pandas requests
-Since this uses pyshark, you must have TShark installed:
+: To run this program, ensure you have the required libraries: pip install streamlit pyshark plotly pandas requests.
+
+Since this program relies on pyshark, (cmd line Wireshark network protocol sniffer) you must have TShark installed:
 
 sudo apt update && sudo apt install tshark -y
 

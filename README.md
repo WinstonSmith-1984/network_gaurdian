@@ -1,5 +1,5 @@
-for all those targeted individuals under repressive regimes -the "Winston smiths"  a way to passively monitor their internet connection for signs of bad actor snooping, state or otherwise. 
-Developd on Linux: To run this, ensure you have the required libraries: pip install streamlit pyshark plotly pandas requests
+for all those targeted individuals under repressive regimes -the "Winston Smiths"  a way to passively monitor their internet connection for signs of bad actor snooping, state or otherwise. 
+Developed on Linux Mint "22.3 (Zena)" 
 
 
 A real-time network security monitoring dashboard built with Python, Streamlit, and PyShark. Designed for Linux users to visualize incoming traffic and detect potential threats.
@@ -21,8 +21,8 @@ A real-time network security monitoring dashboard built with Python, Streamlit, 
 
 🛠️ Prerequisites (Linux)
 
-Since this uses pyshark, you must have TShark installed:
-Bash
+: To run this program, ensure you have the required libraries: pip install streamlit pyshark plotly pandas requests
+Since this uses pyshark, you must have TShark installed:  sudo apt update && sudo apt install tshark -y
 
 sudo apt update && sudo apt install tshark -y
 

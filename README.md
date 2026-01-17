@@ -1,6 +1,6 @@
 for all those targeted individuals under repressive regimes -the "Winston smiths" ) a way to passively monitor their internet connection for signs of bad actor snooping, state or otherwise. 
-Devlopd on Linux To run this, ensure you have the required libraries: pip install streamlit pyshark plotly pandas requests
-Guardian HUD: Network Alert Status
+Developd on Linux: To run this, ensure you have the required libraries: pip install streamlit pyshark plotly pandas requests
+
 
 A real-time network security monitoring dashboard built with Python, Streamlit, and PyShark. Designed for Linux users to visualize incoming traffic and detect potential threats.
 🚀 Key Features

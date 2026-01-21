@@ -1,0 +1,23 @@
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Forensic Data (Prevents accidental upload of your threat logs)
+lotl_threat_log_*.csv
+
+# Environments
+.env
+.venv

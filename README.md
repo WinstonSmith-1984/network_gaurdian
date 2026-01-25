@@ -4,6 +4,7 @@
   <a href="https://www.credly.com/badges/270c2310-e8c5-4216-b474-f24ff2d9cec4/public_url" target="_blank">
     <img src="https://images.credly.com/images/a74dc347-5429-4fc2-8878-74df7c213866/ibm-cybersecurity-analyst-professional-certificate.png" width="130" height="130" alt="IBM Cybersecurity Analyst Professional Certificate">
   </a>
+</p>
   <a href="mailto:derekconlon&#64;hotmail&#46;co&#46;uk" title="Email">📫</a>
 
 </p>

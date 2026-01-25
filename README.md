@@ -1,4 +1,3 @@
-```markdown
 # LOTL-LAN 🦀 (v1.9.57)
 
 <p align="left">
@@ -37,7 +36,3 @@ To deploy the suite, install the system-level packet capture tools, install the 
 sudo apt-get install tshark
 pip install streamlit pyshark pandas plotly
 streamlit run lotl_lan.py
-
-```
-
----[![](https://img.shields.io/badge/Contact-derekconlon%40hotmail.co.uk-blue)](mailto:derekconlon@hotmail.co.uk)

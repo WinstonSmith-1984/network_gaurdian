@@ -4,6 +4,8 @@
   <a href="https://www.credly.com/badges/270c2310-e8c5-4216-b474-f24ff2d9cec4/public_url" target="_blank">
     <img src="https://images.credly.com/images/a74dc347-5429-4fc2-8878-74df7c213866/ibm-cybersecurity-analyst-professional-certificate.png" width="130" height="130" alt="IBM Cybersecurity Analyst Professional Certificate">
   </a>
+  <a href="mailto:derekconlon&#64;hotmail&#46;co&#46;uk" title="Email">📫</a>
+
 </p>
 
 **LOTL-LAN** is a tactical internal network monitoring and threat intelligence suite designed to detect **Living off the Land** (LOTL) attack vectors within a Local Area Network. By focusing on East-West traffic and protocol-specific anomalies (LLMNR, NBNS, MDNS, ARP), LOTL-LAN provides security analysts with real-time visibility into lateral movement and internal poisoning attempts.
@@ -45,5 +47,4 @@ pip install streamlit pyshark pandas plotly
 streamlit run lotl_lan.py
 
 ```md
-<a href="mailto:derekconlon&#64;hotmail&#46;co&#46;uk">📫</a>
 

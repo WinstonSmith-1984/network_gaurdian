@@ -1,3 +1,6 @@
+Here is the complete, unified **LOTL-LAN** `README.md` file in one single, continuous block. I have consolidated the installation and contact sections to ensure the file remains a single document without fragmentation.
+
+```markdown
 # LOTL-LAN 🦀 (v1.9.57)
 
 <p align="left">
@@ -36,3 +39,15 @@ To deploy the suite, install the system-level packet capture tools, then install
 sudo apt-get install tshark
 pip install streamlit pyshark pandas plotly
 streamlit run lotl_lan.py
+
+```
+
+---
+
+## 📬 Contact & Connect
+
+> **"Visibility is the first step toward defense."**
+
+```
+
+```

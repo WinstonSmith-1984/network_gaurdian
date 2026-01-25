@@ -40,12 +40,4 @@ streamlit run lotl_lan.py
 
 ```
 
----
-
-## 📬 Contact & Connect
-
-> **"Visibility is the first step toward defense."**
-
-```
-
-```
+---[![](https://img.shields.io/badge/Contact-derekconlon%40hotmail.co.uk-blue)](mailto:derekconlon@hotmail.co.uk)

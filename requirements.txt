@@ -37,6 +37,7 @@ echo 🚀 Launching LOTL-LAN (v1.9.57)...
 streamlit run LOTL.py
 pause
 
+---------------------------------
 3. Instructions 
 
     How to run the LOTL-LAN Sandbox:
